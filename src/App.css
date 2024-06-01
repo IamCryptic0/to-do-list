@@ -1,5 +1,3 @@
-/* src/App.css */
-
 .App {
   text-align: center;
   background-color: #f5f5f5;
@@ -80,9 +78,9 @@ li button {
 }
 
 li.completed {
-  background-color: #d4edda; /* Light green background */
-  color: #155724; /* Dark green text */
-  border-color: #c3e6cb; /* Green border */
+  background-color: #d4edda;
+  color: #155724;
+  border-color: #c3e6cb;
 }
 
 footer {
